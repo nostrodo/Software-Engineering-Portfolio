@@ -47,14 +47,46 @@ Description coming soon.
 
 ## Skills Highlighted
 
-- Java programming
-- Android app development
-- SQLite database design
-- User interface design
-- CRUD operations
-- Object-oriented programming
-- Software documentation
-- Debugging and testing
+### Programming Languages
+
+* Java
+* Python
+* C++
+* SQL
+
+### Application Development
+
+* Android app development
+* Mobile user interface design
+* Activity navigation
+* Runtime permission handling
+* Object-oriented programming
+
+### Databases and Data Management
+
+* SQLite
+* MongoDB
+* PyMongo
+* CRUD operations
+* Local data persistence
+* Database queries and filtering
+
+### Data Visualization and Dashboards
+
+* Dash / JupyterDash
+* Pandas
+* Plotly
+* Dash data tables
+* Map-based data display with Dash Leaflet
+
+### Software Engineering Practices
+
+* Project documentation
+* Debugging and testing
+* Input validation
+* Modular code organization
+* GitHub portfolio organization
+
 
 ## About Me
 
