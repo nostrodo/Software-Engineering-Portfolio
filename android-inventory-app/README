@@ -1,0 +1,53 @@
+# Android Inventory App
+
+## Overview
+
+This Android Inventory App is a mobile inventory management application built with Java, Android Studio, and SQLite. The app allows users to create an account, log in, choose whether to enable SMS permissions, and manage inventory items through a simple table-based interface.
+
+The project was created as part of a software development course and demonstrates Android UI design, local database storage, CRUD operations, and basic runtime permission handling.
+
+## Features
+
+- Create a new user account
+- Log in with an existing account
+- Store user and inventory data locally with SQLite
+- Add inventory items with name, quantity, and location
+- View inventory items in a table
+- Select and edit existing inventory items
+- Delete inventory items
+- Prompt the user for SMS permission before entering the inventory screen
+
+## Technologies Used
+
+- Java
+- Android Studio
+- SQLite
+- Android SDK
+
+## Project Structure
+
+- `MainActivity.java` - Handles account creation and login
+- `SmsActivity.java` - Handles SMS permission choice
+- `InventoryActivity.java` - Displays and manages inventory items
+- `DatabaseHelper.java` - Handles SQLite database creation and CRUD operations
+
+## What I Learned
+
+Through this project, I practiced:
+
+- Building Android activities
+- Connecting Java code to XML layouts
+- Creating and using a local SQLite database
+- Implementing CRUD operations
+- Handling user input validation
+- Updating the UI after database changes
+- Managing basic app navigation with intents
+
+## Future Improvements
+
+- Hash user passwords instead of storing them as plain text
+- Improve the visual design of the inventory table
+- Add search and filtering
+- Add low-stock notifications
+- Add stronger input validation
+- Add item categories
