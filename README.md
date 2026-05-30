@@ -21,9 +21,11 @@ A mobile inventory management application built for Android using Java and SQLit
 
 ---
 
-### Project 2 - Coming Soon
+### MongoDB Animal Shelter Dashboard
 
-Description coming soon.
+An interactive Python dashboard built with Dash, JupyterDash, MongoDB, Pandas, Plotly, and Dash Leaflet. The dashboard connects to an animal shelter database, filters rescue candidates by category, displays matching records in a data table, visualizes breed distribution with a chart, and maps selected animal locations.
+
+**Technologies used:** Python, MongoDB, PyMongo, Dash, JupyterDash, Pandas, Plotly, Dash Leaflet
 
 ---
 
