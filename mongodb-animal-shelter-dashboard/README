@@ -1,0 +1,51 @@
+# MongoDB Animal Shelter Dashboard
+
+## Overview
+
+This project is an interactive animal shelter dashboard built with Python, MongoDB, Dash, JupyterDash, Pandas, Plotly, and Dash Leaflet. It was originally developed in a Jupyter/Codio environment for a database-focused software development course.
+
+The dashboard connects to a MongoDB animal shelter database through a custom Python CRUD module. It allows users to filter animals by rescue type, view matching records in an interactive table, display breed distribution in a pie chart, and view selected animal locations on a map.
+
+## Features
+
+- Connects to a MongoDB database using a custom PyMongo CRUD module
+- Reads animal shelter records into a Pandas DataFrame
+- Removes MongoDB ObjectId values before displaying data in Dash
+- Provides rescue-type filters for:
+  - Water Rescue
+  - Mountain or Wilderness Rescue
+  - Disaster or Individual Tracking
+  - Reset
+- Displays results in an interactive Dash data table
+- Generates a breed distribution pie chart with Plotly
+- Displays selected animal location data with Dash Leaflet
+
+## Technologies Used
+
+- Python
+- MongoDB
+- PyMongo
+- Pandas
+- Dash
+- JupyterDash
+- Plotly
+- Dash Leaflet
+
+## Project Files
+
+- `ProjectTwoDashboard.ipynb` - Jupyter Notebook containing the dashboard layout, filters, table, chart, and map callbacks
+- `CRUD_Python_Module.py` - Python module containing MongoDB CRUD operations for the animal shelter collection
+
+## Environment Note
+
+This project was originally built to run in a Codio/Jupyter environment with access to a local MongoDB animal shelter database. Because the original database and Codio environment are not included in this repository, the project may require additional setup before it can run locally.
+
+Screenshots are included to demonstrate the dashboard output and functionality.
+
+## Future Improvements
+
+- Replace hardcoded database credentials with environment variables
+- Add setup instructions for running MongoDB locally
+- Add a sample dataset for easier testing
+- Convert the notebook version into a standalone Dash application
+- Improve dashboard styling and layout
