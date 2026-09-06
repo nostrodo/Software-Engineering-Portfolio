@@ -27,65 +27,6 @@ An interactive Python dashboard built with Dash, JupyterDash, MongoDB, Pandas, P
 
 **Technologies used:** Python, MongoDB, PyMongo, Dash, JupyterDash, Pandas, Plotly, Dash Leaflet
 
----
-
-### Project 3 - Coming Soon
-
-Description coming soon.
-
----
-
-### Project 4 - Coming Soon
-
-Description coming soon.
-
----
-
-### Project 5 - Coming Soon
-
-Description coming soon.
-
-## Skills Highlighted
-
-### Programming Languages
-
-* Java
-* Python
-* C++
-* SQL
-
-### Application Development
-
-* Android app development
-* Mobile user interface design
-* Activity navigation
-* Runtime permission handling
-* Object-oriented programming
-
-### Databases and Data Management
-
-* SQLite
-* MongoDB
-* PyMongo
-* CRUD operations
-* Local data persistence
-* Database queries and filtering
-
-### Data Visualization and Dashboards
-
-* Dash / JupyterDash
-* Pandas
-* Plotly
-* Dash data tables
-* Map-based data display with Dash Leaflet
-
-### Software Engineering Practices
-
-* Project documentation
-* Debugging and testing
-* Input validation
-* Modular code organization
-* GitHub portfolio organization
 
 
 ## About Me
