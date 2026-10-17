@@ -1,0 +1,101 @@
+﻿code,description,base_charge
+X00001,Basic wellness intake review,39.25
+X00002,Extended wellness intake review,46
+X00003,Routine symptom assessment,52.75
+X00004,Focused symptom reassessment,59.5
+X00005,General mobility screening,66.25
+X00006,Detailed mobility screening,73
+X00007,Upper limb motion assessment,79.75
+X00008,Lower limb motion assessment,86.5
+X00009,Core stability assessment,93.25
+X00010,Balance and gait screening,100
+X00011,Basic respiratory function check,106.75
+X00012,Extended respiratory function check,34.75
+X00013,Basic cardiac rhythm observation,41.5
+X00014,Extended cardiac rhythm observation,48.25
+X00015,Resting oxygen saturation check,55
+X00016,Post-activity oxygen saturation check,61.75
+X00017,Basic neurological response screening,68.5
+X00018,Extended neurological response screening,75.25
+X00019,Hand strength measurement,82
+X00020,Lower extremity strength measurement,88.75
+X00021,Basic pain scale assessment,95.5
+X00022,Extended pain pattern assessment,102.25
+X00023,Functional activity tolerance check,109
+X00024,Daily living skills assessment,37
+X00025,Work task tolerance screening,43.75
+X00026,Posture and alignment assessment,50.5
+X00027,Basic wound appearance check,57.25
+X00028,Extended wound appearance check,64
+X00029,Simple dressing replacement,70.75
+X00030,Complex dressing replacement,77.5
+X00031,Skin integrity screening,84.25
+X00032,Pressure area risk assessment,91
+X00033,Basic hydration status review,97.75
+X00034,Nutrition risk screening,104.5
+X00035,Medication list reconciliation,111.25
+X00036,Basic medication education session,39.25
+X00037,Extended medication education session,46
+X00038,Home safety screening,52.75
+X00039,Fall risk screening,59.5
+X00040,Assistive device fit check,66.25
+X00041,Basic cane training session,73
+X00042,Basic walker training session,79.75
+X00043,Wheelchair positioning assessment,86.5
+X00044,Wheelchair mobility training session,93.25
+X00045,Transfer technique training,100
+X00046,Bed mobility training,106.75
+X00047,Stair mobility training,113.5
+X00048,Basic endurance exercise session,41.5
+X00049,Extended endurance exercise session,48.25
+X00050,Basic strengthening exercise session,55
+X00051,Extended strengthening exercise session,61.75
+X00052,Basic flexibility exercise session,68.5
+X00053,Extended flexibility exercise session,75.25
+X00054,Basic coordination exercise session,82
+X00055,Extended coordination exercise session,88.75
+X00056,Basic balance exercise session,95.5
+X00057,Extended balance exercise session,102.25
+X00058,Basic gait training session,109
+X00059,Extended gait training session,115.75
+X00060,Basic manual therapy session,43.75
+X00061,Extended manual therapy session,50.5
+X00062,Basic soft tissue treatment,57.25
+X00063,Extended soft tissue treatment,64
+X00064,Basic joint mobility treatment,70.75
+X00065,Extended joint mobility treatment,77.5
+X00066,Basic breathing exercise session,84.25
+X00067,Extended breathing exercise session,91
+X00068,Basic relaxation training session,97.75
+X00069,Extended relaxation training session,104.5
+X00070,Basic ergonomic education,111.25
+X00071,Extended ergonomic education,118
+X00072,Basic body mechanics training,46
+X00073,Extended body mechanics training,52.75
+X00074,Basic home exercise instruction,59.5
+X00075,Extended home exercise instruction,66.25
+X00076,Home exercise progress review,73
+X00077,Basic caregiver training session,79.75
+X00078,Extended caregiver training session,86.5
+X00079,Basic speech clarity screening,93.25
+X00080,Extended speech clarity screening,100
+X00081,Basic swallowing safety screening,106.75
+X00082,Extended swallowing safety screening,113.5
+X00083,Basic cognitive task screening,120.25
+X00084,Extended cognitive task screening,48.25
+X00085,Basic memory strategy training,55
+X00086,Extended memory strategy training,61.75
+X00087,Basic attention strategy training,68.5
+X00088,Extended attention strategy training,75.25
+X00089,Basic fine motor training,82
+X00090,Extended fine motor training,88.75
+X00091,Basic hand coordination training,95.5
+X00092,Extended hand coordination training,102.25
+X00093,Basic sensory response screening,109
+X00094,Extended sensory response screening,115.75
+X00095,Basic visual tracking screening,122.5
+X00096,Extended visual tracking screening,50.5
+X00097,Basic discharge readiness review,57.25
+X00098,Extended discharge readiness review,64
+X00099,Basic care plan progress review,70.75
+X00100,Extended care plan progress review,77.5
