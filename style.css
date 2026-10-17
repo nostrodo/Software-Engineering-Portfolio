@@ -5,6 +5,28 @@ body{margin:0;background:#17191e;color:#e6e7eb;font:16px/1.65 Arial,Helvetica,sa
 .container{max-width:860px;margin:auto;padding:0 22px}
 header{background:#20232a;border-bottom:1px solid #42444c;padding:15px 0}
 header .container{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
-header strong{font-size:17px}nav a{margin-right:15px}nav a:last-child{margin-right:0}
-a{color:#d38b98;text-decoration:none}a:hover{text-decoration:underline;color:#f4aab7}
-main{padding:36px 0 55px}h1{font-size:2rem;line-height:1.25;margin:0 0 14px}h2{font-size:1.36rem;margin:35px 0 12px;border-bottom:1px solid #3b3d45;padding-bottom:6px}h3{font-size:1.08rem;margin:0 0 8px}p{margin:9px 0 17px}.muted{color:#bac0cc}.intro{border-left:3px solid #914657;padding-left:16px}.entry{padding:18px 0;border-bottom:1px solid #383b43}.entry p{margin:7px 0 10px}.links a{margin-right:15px}.notice{padding:12px 15px;background:#24272f;border:1px solid #42454e;border-radius:3px}footer{border-top:1px solid #42444c;color:#a9afbb;padding:18px 0;font-size:13px}.narrative p{margin:0 0 19px} .return{display:inline-block;margin-bottom:22px}ul{padding-left:22px}@media(max-width:600px){main{padding-top:24px}h1{font-size:1.6rem}nav a{display:inline-block;margin-bottom:4px}}
+header strong{font-size:17px}
+nav a{margin-right:15px}
+nav a:last-child{margin-right:0}
+a{color:#d38b98;text-decoration:none}
+a:hover{text-decoration:underline;color:#f4aab7}
+main{padding:36px 0 55px}
+h1{font-size:2rem;line-height:1.25;margin:0 0 14px}
+h2{font-size:1.36rem;margin:35px 0 12px;border-bottom:1px solid #3b3d45;padding-bottom:6px}
+h3{font-size:1.08rem;margin:0 0 8px}p{margin:9px 0 17px}
+.muted{color:#bac0cc}
+.intro{border-left:3px solid #914657;padding-left:16px}
+.entry{padding:18px 0;border-bottom:1px solid #383b43}
+.entry p{margin:7px 0 10px}
+.links a{margin-right:15px}
+.notice{padding:12px 15px;background:#24272f;border:1px solid #42454e;border-radius:3px}
+footer{border-top:1px solid #42444c;color:#a9afbb;padding:18px 0;font-size:13px}
+.narrative p{margin:0 0 19px}
+.return{display:inline-block;margin-bottom:22px}
+ul{padding-left:22px}
+
+@media(max-width:600px){
+  main{padding-top:24px}
+  h1{font-size:1.6rem}
+  nav a{display:inline-block;margin-bottom:4px}
+}
